@@ -1,2 +1,2 @@
 # Databases
-###AWS Restart Datbases class discussion
+### AWS Restart Database class discussion assests
